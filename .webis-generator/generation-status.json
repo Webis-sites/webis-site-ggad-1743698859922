@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-04-03T17:03:49.272Z",
+  "timestamp": "2025-04-03T17:04:24.398Z",
   "status": {
     "totalComponents": 8,
-    "completedComponents": 5,
+    "completedComponents": 6,
     "failedComponents": 0,
-    "progress": 63
+    "progress": 75
   },
   "components": [
     {
@@ -40,7 +40,7 @@
     {
       "name": "FAQSection",
       "type": "faq",
-      "status": "pending",
+      "status": "completed",
       "description": "Frequently asked questions about the photography services"
     },
     {
